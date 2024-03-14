@@ -8,7 +8,7 @@
 
 # Project Title
 
-Analysing the Effect of Regularization in Feature Selection
+**Analysing the Effect of Regularization in Feature Selection**
 
 
 ## Implementation Details
