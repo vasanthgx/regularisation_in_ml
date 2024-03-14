@@ -1,4 +1,5 @@
-# regularisation_in_ml
+![logo](https://github.com/vasanthgx/regularisation_in_ml/blob/main/images/resizedlogo1.png)
+# Regularization in ML
  Effect of Lasso and Ridge Regularization on the California Housing Dataset
  
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300" align='center'>
